@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<link rel="stylesheet" href="favourites.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Text+Me+One&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+
+<script type="text/javascript" src="favourites.js"></script>
+</head>
+<body onload="showFavourites()">
+	<div class="headbar"></div>
+	<a href="RAM.html"><span id="ss1">R&</span><span id="ss2">&M</span></a>
+	<div class="mainbar"></div>
+	<span id="mf">My favourites</span>
+	<table id="ftable" class="table table-dark">
+		<tr>
+			<td>Name</td><td>Autdor</td><td>Genre</td><td>Rating</td><td>Date and Time</td><td>Duration</td>
+		</tr>
+		
+	</table>
+			<input type="button" value="Edit personal rating"  id="edit" onclick="edit()" class="btn btn-dark">&nbsp
+			<input type="button" value="Delete"  id="delete" onclick="del()" class="btn btn-dark">&nbsp
+			<input type="button" value="Clear"  id="clear" onclick="cl()" class="btn btn-dark">&nbsp
+			<a href="index.html" class="btn btn-dark" id="back">Go Back</a>
+			<h3 id="dur">Duration of playlist</h3>
+			<h3 id="dur_play"></h3>
+
+</body>
+</html>
