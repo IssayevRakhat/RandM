@@ -35,7 +35,7 @@ function signin(e){
 		result.innerHTML = 'wrong username';
 	}else if((username == data.username)&&(pass == data.password)){
 		window.confirm("Logged in");
-		window.open("index.html","_self");
+		window.open("RAM.html","_self");
 		
 	}else{
 		result.innerHTML = 'wrong password';
