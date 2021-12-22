@@ -1,0 +1,162 @@
+@media (max-width: 992px) {
+	/*.side-bar{
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		position: relative;
+		top: 0;
+		margin-left: -7px;
+		width: 130vw;
+		height: 70px;
+	}
+	.side-bar a{
+		padding: 6px 8px 6px 10px;
+	}*/
+	.side-bar-r{
+	 left: 0;
+	}
+	.upper-well{
+		margin-left: 550px;
+	}
+	.ourmap{
+		margin-left: 200px;
+	}
+	.ss1{
+		left: 164px;
+	}
+	.under-well{
+		display: grid;
+		grid-template-columns: 27% 27% 27%;
+	}
+	.side-bar-r {
+		position: relative;
+		bottom: 0;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		width: 100vw;
+		height: 120px;
+		z-index: 1002;
+		padding: 0 35px;
+		animation: drop 1s;
+	}
+
+	.see-also{
+		margin: 0 15px 0 10px;
+	}
+	.side-bar-r i{
+		margin:0 40px 0 20px;
+	}
+}
+@media (max-width: 768px){
+	.upper-well{
+		margin-left: 550px;
+	}
+	.ourmap{
+		display: none;
+	}
+	.log-in{
+		position: relative;
+		right: -650px;
+		top: 0;
+
+	}
+	.ss1{
+		left: 50px;
+	}
+	.side-bar{
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		position: relative;
+		top: 0;
+		margin-left: -8px;
+		width: 100vw;
+		height: 120px;
+	}
+	.side-bar-r{
+		left: 0;
+	}
+	.side-bar-genres a{
+		padding: 6px 8px 6px 24px;
+	}
+	.side-bar-collection a{
+		padding: 6px 8px 6px 10px;
+	}
+	
+	.under-well{
+		grid-template-columns: 1fr 1fr;
+	}
+	.under-well{
+		margin-left: 50px;
+	}
+	.wrapper{
+		margin-left: 50px;
+		width: 90vw;
+		font-size: 13px;
+		line-height: 13px;
+	}
+	.top-bar{
+		margin-top: -5px;
+	}
+	.song-details{
+		font-size: 12px;
+		line-height: 10px;
+		width: 150px;
+	}
+	.progress-area{
+		margin-left: 150px;
+	}
+	.controls{
+		margin-left: 150px;
+	}
+	
+}
+@media (max-width:576px){
+
+	.log-in{
+		right: 10px;
+	}
+	.side-bar-r{
+		width: 576px;
+	}	.upper-well{
+		margin-left: 540px;
+	}
+		.under-well{
+			grid-template-columns: 1fr;
+			margin-left: 50px;
+		}
+		.under-well .project-box__image__sleeve{
+			width: 330px;
+			height: 330px;
+		}
+		.under-well .project-box__image__vinyl{
+			width: 330px;
+			height: 330px;
+		}
+		.wrapper{
+			margin-left: 5vw;
+			width: 80vw;
+		}
+		.progress-area{
+			margin-left: 105px;
+			width: 75vw;
+		}
+		.controls{
+			margin-left: 105px;
+			margin-top: 10px;
+			width: 46vw;
+		}
+		.song-details{
+			margin-top: -15px;
+			width: 15vw;
+			font-size: 13px;
+			line-height: 15px;
+			height: 15px;
+		}
+		.ss1{
+			left: 0;
+		}
+}
+
+/*max width 576, min-width 576 */
