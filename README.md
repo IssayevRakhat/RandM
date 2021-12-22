@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](demo-version)(file:///C:/Users/User/OneDrive%20-%20International%20Information%20Technology%20University/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/Study/Web%20Dev/final/index.html)
+- Solution URL: [file:///C:/Users/User/OneDrive%20-%20International%20Information%20Technology%20University/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/Study/Web%20Dev/final/index.html](demo-version)()
 - Live Site URL: [https://issayevrakhat.github.io/RandM/](https://your-live-site-url.com)
 
 ## My process
