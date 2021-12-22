@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](demo-version)(file:///C:/Users/User/OneDrive%20-%20International%20Information%20Technology%20University/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/Study/Web%20Dev/final/index.html)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://issayevrakhat.github.io/RandM/](https://your-live-site-url.com)
 
 ## My process
 
@@ -55,10 +55,6 @@ To see how you can add code snippets, see below:
 
 In our plans we want to do more interactive website for music listening, and for it working more smoothly without any bugs and mistakes. We want to go further than local storage to go further than limits of this browser storage, we plan to add more serious data base for data of users and music. 
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
@@ -66,10 +62,7 @@ In our plans we want to do more interactive website for music listening, and for
 	    [Rakhat](https://github.com/IssayevRakhat)
 
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
 Thanks for those, who help others in Internet forums and give advices for newbies in their work, for those who give online lessons in YouTube plarform and for github team, for giving to us opportunity to download and make our website seen by others
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
