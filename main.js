@@ -7,8 +7,18 @@ event.preventDefault();
 var email = document.getElementById('email').value;
 var username = document.getElementById('username').value;
 var pass = document.getElementById('password').value;
-var courses = ".";
-var toPay = "0"
+if (username==null || username==""){  
+  alert("Username can't be blank");  
+  return false;  
+}else if(username.length<3){  
+  alert("Username must be at least 3 characters long.");  
+  return false;  
+  }else if(pass.length<6){  
+  alert("Password must be at least 6 characters long.");  
+  return false;  
+  }
+
+	
 var user = {
 	email: email,
 	username: username,
