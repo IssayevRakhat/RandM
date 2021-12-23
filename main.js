@@ -16,7 +16,7 @@ if (username==null || username==""){
   }else if(pass.length<6){  
   alert("Password must be at least 6 characters long.");  
   return false;  
-  }
+  }else{
 
 	
 var user = {
@@ -29,7 +29,7 @@ var json = JSON.stringify(user);
 localStorage.setItem(username, json);
 alert("YOU ARE SIGNED UP");
 }
-
+}
 
  
 function signin(e){
